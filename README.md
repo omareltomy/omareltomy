@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/omareltomy/omareltomy/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
